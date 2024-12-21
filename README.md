@@ -39,3 +39,10 @@ Improvements:
 2. Include error handling for invalid inputs (e.g., non-numeric values).
 3. Create a history feature to track recent BMI calculations.
 
+Additional Information:
+• BMI Categories:
+• Underweight: BMI < 18.5
+• Normal: 18.5 ≤ BMI < 24.9
+• Overweight: 25 ≤ BMI < 29.9
+• Obese: BMI ≥ 30
+
