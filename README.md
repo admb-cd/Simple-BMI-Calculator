@@ -20,13 +20,14 @@ Height: 1.75 m
 Output:
 • BMI: 22.86
 • Category: Normal
-↓
+
 2. Input:
 Weight: 50 kg
 Height: 1.60 m
 Output:
 BMI: 19.53
 • Category: Normal
+
 3. Input:
 • Weight: 95 kg
 • Height: 1.70 m
