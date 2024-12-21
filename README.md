@@ -6,3 +6,9 @@ Features:
 2. Display the BMI category
 (Underweight, Normal, Overweight, Obese).
 3. Simple and easy-to-use implementation.
+
+How to Run:
+1. Open the notebook on Google Colab:
+BMI Calculator - Google Colab
+2. In the Colab notebook, run the code cells by clicking the "Play" button on the left side of each cell or by pressing Shift + Enter.
+3. Follow the instructions in the notebook to input your weight and height. The BMI will be calculated and displayed, along with the BMI category. 
